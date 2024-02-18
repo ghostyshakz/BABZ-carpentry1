@@ -1,0 +1,37 @@
+<doctype html>
+<HTML>
+<head>
+</head>
+
+<body>
+<body bgcolor=#18c9bb>
+
+<title<carpentry</title>
+
+
+
+<h1>BABZ THE CARPENTER!<h1>
+<H2>Nestled within our community is a local carpentry workshop specializing in crafting tailored designs for commercial spaces and property management projects. This dedicated team of carpenters seamlessly blends creativity and functionality, transforming ordinary spaces into extraordinary environments. From custom office furniture to innovative storage solutions, their expertise in woodworking stands as a testament to their commitment to both artistry and practical design. As a trusted resource for our community's diverse needs, this local carpentry business exemplifies the seamless integration of craftsmanship into the fabric of our surroundings.<H2>
+
+<img src= "builder.jpg " width = "410"><br>
+<br>
+<b>HOW TO START A CARPENTRY BUSSINESS:</b><br>
+<br>
+<i>1.Develop carpentry skills.<i><br>
+<i>2.Define your niche.<i><br>
+<i>3.Create a business plan.<i><br>
+<i>4.Obtain permits and licenses.<i><br>
+<i>5.Set up your workspace.<i><br>
+<i>6.Secure funding,<i><br>
+<i>7.Purchase insurance.<i><br>
+<i>8.Market your business.<i><br>
+<i>9.Build a portfolio.<i><br>
+<i>10.Establish pricing.<i><br>
+<i>11.Develop contracts and policies.<i><br>
+<i>12.Build a client base.<i><br>
+<br>
+<img src= "carpenter.jpg " width = "410"><br>
+<br>
+
+
+<a href="file:///C:/Users/Shakil/Documents/mywebpage2.html">Go to next page!</a><br>
